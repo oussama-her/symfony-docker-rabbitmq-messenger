@@ -1,0 +1,1 @@
+# symfony-docker-rabbitmq-messenger
